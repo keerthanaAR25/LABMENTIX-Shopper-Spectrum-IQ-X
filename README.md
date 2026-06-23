@@ -2,6 +2,8 @@
 
 **AI-Powered Customer Segmentation and Product Recommendation System**
 
+# demo video : 
+
 ## 🎯 Project Overview
 
 SHOPPER SPECTRUM IQ X is an intelligent system designed to help businesses understand customer behavior and make data-driven decisions. It combines advanced machine learning techniques to segment customers and recommend products intelligently.
