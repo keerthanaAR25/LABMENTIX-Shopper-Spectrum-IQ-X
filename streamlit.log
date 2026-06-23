@@ -1,0 +1,22 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2026-06-23 14:17:02.350 No ASGI app assignments found in /vercel/share/v0-project/app.py
+2026-06-23 14:17:02.459 Filtered 54 packages down to 1 candidates for component scanning
+2026-06-23 14:17:02.459 Scanning 1 candidate packages for component manifests using 1 worker threads
+2026-06-23 14:17:02.477 Found 0 component manifests total
+2026-06-23 14:17:02.478 No asset roots to watch
+2026-06-23 14:17:02.478 File watching not started
+2026-06-23 14:17:02.478 Starting new event loop for server
+2026-06-23 14:17:02.478 Starting server...
+2026-06-23 14:17:02.556 Starting uvicorn server on 0.0.0.0:8501
+2026-06-23 14:17:02.624 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+2026-06-23 14:17:02.625 Uvicorn server started on 0.0.0.0:8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://100.64.50.143:8501
+  External URL: http://18.117.127.43:8501
+
+2026-06-23 14:17:02.798 Setting up signal handler
