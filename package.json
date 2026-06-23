@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/keerthanaAR25/LABMENTIX-Shopper-Spectrum-IQ-X.git"
   },
-  "keywords": ["ai", "customer-segmentation", "recommendation", "machine-learning"],
+  "keywords": [
+    "ai",
+    "customer-segmentation",
+    "recommendation",
+    "machine-learning"
+  ],
   "author": "LABMENTIX",
   "license": "MIT",
   "bugs": {
@@ -21,16 +26,13 @@
   },
   "homepage": "https://github.com/keerthanaAR25/LABMENTIX-Shopper-Spectrum-IQ-X#readme",
   "dependencies": {
-    "next": "^16.2.9",
+    "next": "^15.0.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
     "@types/react": "^19.0.0",
-    "autoprefixer": "^10.5.0",
-    "postcss": "^8.5.15",
-    "tailwindcss": "^4.3.1",
     "typescript": "^5.0.0"
   }
 }
