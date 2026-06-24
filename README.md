@@ -2,7 +2,7 @@
 
 **AI-Powered Customer Segmentation and Product Recommendation System**
 
-# demo video : 
+demo video : https://drive.google.com/file/d/1zwfX8nyjkbWGsEZPsrTnjCRWDDsf5YZQ/view?usp=sharing
 
 ## 🎯 Project Overview
 
